@@ -8,7 +8,7 @@ public class setGetMethod {
 	private String studentNr;
 	private String yearNr;
 	private String email;
-	 
+    private int test;
 	// Constructor
 	public setGetMethod() {
 		
