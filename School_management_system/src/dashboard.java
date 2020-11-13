@@ -46,6 +46,7 @@ public class dashboard extends JFrame {
 			}
 		});
 	}
+    int myvar;
 
 	/**
 	 * Create the frame.
